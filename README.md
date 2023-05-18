@@ -5,7 +5,7 @@
 <h6><ul>
  <li>📚I am currently studying for the entrance exam and learning JavaScript</li>
  <br>
- <li>👾If you want to connect with me on Discord: MOHADESEH#2024</li>
+ <li>👾If you want to connect with me on Discord: MOHADESEH#2420</li>
  <br>
  <li>📬My email address: mohadesekeshtkar4@gmail.com</li>
  <br>
