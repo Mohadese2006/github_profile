@@ -3,6 +3,6 @@
  But his thought is to solve the problem of his program🔍</h3>
 <ul>
  <li>📚I am currently studying for the entrance exam and learning JavaScript</li>
- <li></li>
- <li></li>
+ <li>👾If you want to connect with me on Discord: MOHADESEH#2024</li>
+ <li>My email address: mohadesekeshtkar4@gmail.com</li>
 </ul>
