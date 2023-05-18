@@ -1,5 +1,5 @@
-<h1>Hi I'm Mohadeseh👋✨</h1>
-<h3>A programmer is in front of you
+<h1 align="center">Hi I'm Mohadeseh👋✨</h1>
+<h3 align="center">A programmer is in front of you
  But his thought is to solve the problem of his program🔍</h3>
  <br>
 <h6><ul>
